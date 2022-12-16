@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "Java_e_Tratamento_de_Excecoes.Estruturas_Excepcionais.AboutMe",
+            "projectName": "Curso-Formacao_Java_Developer_aa122179"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "Fundamentos_na_Plataforma_Java.Aprendendo_A_Sintax_Java.Terminal_E_Argumentos.MinhaClasse",
+            "projectName": "Curso-Formacao_Java_Developer_aa122179"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "Fundamentos_na_Plataforma_Java.Aprendendo_A_Sintax_Java.Terminal_E_Argumentos.AboutMe",
+            "projectName": "Curso-Formacao_Java_Developer_aa122179"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "Fundamentos_na_Plataforma_Java.Aprendendo_A_Sintax_Java.Java_Anatomia_Das_Classes.Primeira_Semana.BoletimEstudantil",
+            "projectName": "Curso-Formacao_Java_Developer_aa122179"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "Fundamentos_na_Plataforma_Java.Aprendendo_A_Sintax_Java.Java_Anatomia_Das_Classes.Segunda_Semana.MinhaClasse",
+            "projectName": "Curso-Formacao_Java_Developer_aa122179"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Fundamentos_na_Plataforma_Java.Aprendendo_A_Sintax_Java.Metodos.Usuario",
+            "projectName": "Curso-Formacao_Java_Developer_aa122179"
+        }
+    ]
+}
